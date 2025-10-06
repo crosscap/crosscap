@@ -1,3 +1,5 @@
+[![CrossCap's GitHub stats](https://github-readme-stats.vercel.app/api?username=crosscap)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 个人项目
 
 由于课程实验各个学校一般不允许公开解决方案，大多数课程实验相关的项目被设置为 private。
