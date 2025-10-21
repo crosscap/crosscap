@@ -17,7 +17,12 @@
   - [x] 查询执行
   - [x] 版本控制
 - [ ] MIT 6.s081 课程实验（操作系统）
-
+<!--
+- [ ] MIT 6.824 课程实验（分布式系统）
+- [ ] CMU 15-213 课程实验（CSAPP 课程实验）
+- [ ] CMU 15-418 课程实验（并行计算）
+- [ ] GAMES202 课程实验（实时渲染系统实践）
+-->
 <!--
 **crosscap/crosscap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
