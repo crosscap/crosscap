@@ -1,6 +1,6 @@
 # CrossCap 的个人主页
 
-[![CrossCap's GitHub stats](https://github-readme-stats.vercel.app/api?username=crosscap)](https://github.com/anuraghazra/github-readme-stats)
+[![crosscap's GitHub stats](https://github-readme-stats-three-gold-33.vercel.app/api?username=crosscap)](https://github.com/crosscap)
 
 ## 个人项目
 
