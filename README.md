@@ -1,6 +1,6 @@
 # CrossCap 的个人主页
 
-[![CrossCap's GitHub stats](https://github-readme-stats.vercel.app/api?username=crosscap)](https://github.com/anuraghazra/github-readme-stats)
+[![CrossCap's GitHub stats](https://github-readme-stats-nine-flame-67.vercel.app/api?username=crosscap)](https://github-readme-stats-nine-flame-67.vercel.app)
 
 ## 个人项目
 
